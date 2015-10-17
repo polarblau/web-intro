@@ -21,11 +21,11 @@ Copy the following HTML code into your text editor and save it as `my-page.html`
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>This is the page title</title>
+    <title>title goes here</title>
 </head>
 <body>
 
-<p>This is a <em>p</em>aragraph of text</p>
+<p>body goes here</p>
 
 </body>
 </html>
