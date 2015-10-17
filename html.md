@@ -25,7 +25,7 @@ Copy the following HTML code into your text editor and save it as `my-page.html`
 </head>
 <body>
 
-<p>This is a <u>p</u>aragraph of text</p>
+<p>This is a <em>p</em>aragraph of text</p>
 
 </body>
 </html>
